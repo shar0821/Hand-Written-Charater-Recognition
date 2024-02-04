@@ -1,2 +1,5 @@
-# Hand Written Charater Recognition
+# Description of the Project
  
+Handwritten character recognition represents a fundamental and highly challenging research area with numerous practical applications. Various research endeavors have been undertaken utilizing deep learning networks to develop handwritten recognition systems, primarily focusing on constructing language-specific models. Nevertheless, the creation of language-specific handwritten character recognition models proves to be a time-intensive process. Additionally, deep learning models necessitate a substantial amount of labeled data and exhibit limitations in identifying samples from unseen classes.
+
+To tackle the challenges associated with time-constrained model development and working with a limited number of samples, this paper proposes a generalized model for recognizing characters across multiple languages. The proposed model leverages few-shot learning techniques, allowing it to effectively train models with a minimal number of samples while maintaining the ability to generalize for samples belonging to unseen classes.
